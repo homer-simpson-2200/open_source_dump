@@ -1,7 +1,7 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <io.h>
+#include <io.h> //or <unistd.h>
 
 void t(char* f);
 
