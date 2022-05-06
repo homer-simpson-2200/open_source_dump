@@ -1,7 +1,7 @@
 This program is file remover.
-I hope you injoy my program.
+I hope you injoy my software.
 
 Usange:
 Run the remover.exe file in cmd.
-Whan the program is running enter "help".
-The program will show you how to use it.
+Whan the software is running enter "help".
+Than the usage of software will showed up.
